@@ -6,7 +6,7 @@ Simulating an WHN (*Wirelesss Home Network*) that contains devices of the follow
 
 We are using Ieee80211DimensionalRadiuMedium, which uses the *DimensionalAnalogModel* that inherits its characteristics from *DimensionalAnalogModelBase*.
 
-/inet/src/physicallayer/base/packetlevel/DimensionalAnalogModelBase.cc
+/inet/src/physicallayer/base/packetlevel/DimensionalAnalogModelBase.cc <br />
 /inet/src/physicallayer/base/packetlevel/DimensionalAnalogModelBase.h
 
 ```C++
