@@ -73,7 +73,7 @@ double Indoor24GHzPathLoss::computeInterference(const Coord& pos_t, const Coord&
 
 double Indoor24GHzPathLoss::computePathLoss(mps propagationSpeed, Hz frequency, m distance) const
 {
-	return m(NaN);
+	return NaN;
 }
 
 m Indoor24GHzPathLoss::computeRange(mps propagationSpeed, Hz frequency, double loss) const
